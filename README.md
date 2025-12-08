@@ -35,5 +35,4 @@
 <h2 align="left">Contacts</h2>
 
 [![Linkedin: joaorafael](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-rafael-alcoforado/)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaorafael.alcoforado@gmail.com)
 [![Instagram: joaorafael](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoralcoforado)
