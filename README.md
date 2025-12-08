@@ -36,3 +36,10 @@
 
 [![Linkedin: joaorafael](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-rafael-alcoforado/)
 [![Instagram: joaorafael](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoralcoforado)
+<div align="left">
+  <a href="https://cesarschool.slack.com/team/U097SSKT2FJ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  </a>
+</div>
+
+###
