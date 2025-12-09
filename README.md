@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">I'm from Recife-PE-Brasil<br><br>- 🔭 I’m computer science student at  CESAR School<br>- 📚 I'm currently learning python, javascript,css and html</p>
+<p align="left">I'm from Recife-PE-Brasil<br><br>- 🔭 I’m computer science student at  CESAR School<br>- 📚 I'm currently learning python, javascript,css and html<br>
+-I'm like to play video games and  read japanese manga</p>
 
 ###
 
